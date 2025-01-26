@@ -35,4 +35,7 @@ p {
   p {
     font-size: 1em;
   }
+#parking {
+  max-width: 250px;
+}
 }
